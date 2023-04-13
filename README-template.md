@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/olenahelena/news-homepage))
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://olena-news-homepage.netlify.app/)
 
 
 ### Built with
