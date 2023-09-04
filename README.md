@@ -27,7 +27,6 @@ Users should be able to:
 
 ![](./assets/images/mobile-screenshots.png) (./assets/images/laptop-screenshots.png)
 
-
 ### Links
 
 - Solution URL: (https://github.com/olenahelena/news-homepage))
@@ -41,7 +40,6 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-
 
 ### Continued development
 
